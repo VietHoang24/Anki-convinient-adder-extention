@@ -207,3 +207,4 @@ And then pack files under `dist/chrome` or `dist/firefox`, you can upload to app
 This template is heavenly inspired by: https://github.com/antfu/vitesse-webext
 # Couldn-t-check-availability
 # Couldn-t-check-availability
+# Couldn-t-check-availability
