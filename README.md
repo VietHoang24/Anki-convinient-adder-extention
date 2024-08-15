@@ -1,6 +1,5 @@
-# vite-vue3-browser-extension-v3
+# Anki-convinient-adder-extention
 
-[![build](https://github.com/mubaidr/vite-vue3-browser-extension-v3/actions/workflows/build.yml/badge.svg)](https://github.com/mubaidr/vite-vue3-browser-extension-v3/actions/workflows/build.yml) [![release](https://github.com/mubaidr/vite-vue3-browser-extension-v3/actions/workflows/release.yml/badge.svg)](https://github.com/mubaidr/vite-vue3-browser-extension-v3/actions/workflows/release.yml)
 
 A [Vite](https://vitejs.dev/) powered WebExtension ([Chrome](https://developer.chrome.com/docs/extensions/reference/), [FireFox](https://addons.mozilla.org/en-US/developers/), etc.) starter template based on `manifest 3`, `vue3` and `vite`.
 
@@ -10,7 +9,7 @@ A [Vite](https://vitejs.dev/) powered WebExtension ([Chrome](https://developer.c
 
 We're developing a new and improved browser extension template with exciting features like authentication, payment processing, and more. Your feedback is crucial to us!
 
-## [Please take a moment to fill out our feedback form](https://forms.gle/2nzS2AQkVGmqHTLV6)  and let us know if you would be interested in purchasing template, along with any features you would like to see.
+##   and let us know if you would be interested in purchasing template, along with any features you would like to see.
 
 Thank you for your time and support!
 
@@ -79,7 +78,7 @@ Tailwind css `forms` and `typography` plugins are enabled for default styling of
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/mubaidr/vite-vue3-browser-extension-v3/generate).
+[Create a repo from this template on GitHub](https://github.com/VietHoang24/Anki-convinient-adder-extention).
 
 ### Clone to local
 
@@ -88,8 +87,6 @@ If you prefer to do it manually with the cleaner git history
 > If you don't have pnpm installed, run: npm install -g pnpm
 
 ```bash
-pnpx degit mubaidr/vite-vue3-browser-extension-v3 my-webext
-cd my-webext
 pnpm i
 ```
 

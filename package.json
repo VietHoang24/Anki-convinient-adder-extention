@@ -7,7 +7,7 @@
   "description": "Simplify your vocabulary learning with this extension—designed to help you add new words to Anki easily and efficiently.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mubaidr/vite-vue3-chrome-extension-v3"
+    "url": "https://github.com/VietHoang24/Anki-convinient-adder-extention"
   },
   "scripts": {
     "build": "npm run build:chrome && npm run build:firefox",
